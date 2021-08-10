@@ -1,5 +1,7 @@
 # devOS: Sanity Edition
 
+![banner](https://github.com/devOS-Sanity-Edition/Art/blob/main/devos_banner_new.png?raw=true)
+
 ## Who are we?
 Hello, we are devOS: Sanity Edition, a collective of developers who work on software in our freetime, and just learning while throwing bricks and marbles at each other. We are a relatively tightly knitted private Discord community that just wants to have fun. A majority of our members are LGBTQ+ in our own respective, or support LGBTQ+ in one way or another.
 
